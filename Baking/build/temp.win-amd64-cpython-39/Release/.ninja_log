@@ -1,0 +1,5 @@
+# ninja log v5
+229	34228	7548336050675487	E:/code/Ours_relighting/Octree_Ours_1122/Baking/build/temp.win-amd64-cpython-39/Release/src/occlusion_kernel.obj	cb404aa0f0b6581a
+132	34665	7548336055805651	E:/code/Ours_relighting/Octree_Ours_1122/Baking/build/temp.win-amd64-cpython-39/Release/src/irradiance_kernel.obj	7e489f82cc08996
+16	8027	7548339708800742	E:/code/Ours_relighting/Octree_Ours_1122/Baking/build/temp.win-amd64-cpython-39/Release/src/bindings.obj	d821879c3fe2be0
+146	26970	7548339898168689	E:/code/Ours_relighting/Octree_Ours_1122/Baking/build/temp.win-amd64-cpython-39/Release/src/irradiance_kernel.obj	7e489f82cc08996

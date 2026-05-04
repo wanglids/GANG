@@ -1,0 +1,4 @@
+# ninja log v5
+1	18131	1733294431507076756	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-cpython-39/src/bindings.o	e459be513a25bfc1
+2	42454	1733294455811075734	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-cpython-39/src/occlusion_kernel.o	57036b7a7c21f4ae
+1	43268	1733294456571075703	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-cpython-39/src/irradiance_kernel.o	2b81ea5abc371dc1

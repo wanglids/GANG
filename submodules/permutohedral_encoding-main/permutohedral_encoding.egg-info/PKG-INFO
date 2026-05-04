@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: permutohedral_encoding
+Version: 1.0
+Summary: permutohedral_encoding extension for PyTorch
+Home-page: https://github.com/RaduAlexandru/permutohedral_encoding
+Download-URL: https://github.com/RaduAlexandru/permutohedral_encoding
+Author: Radu Alexandru Rosu
+Author-email: rosu@ais.uni-bonn.de
+Maintainer: Radu Alexandru Rosu
+Maintainer-email: rosu@ais.uni-bonn.de
+License: BSD 3-Clause "New" or "Revised" License
+Keywords: PyTorch,machine learning
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: GPU :: NVIDIA CUDA
+Classifier: License :: BSD 3-Clause
+Classifier: Programming Language :: C++
+Classifier: Programming Language :: CUDA
+Classifier: Programming Language :: Python :: 3 :: Only
+Classifier: Topic :: Multimedia :: Graphics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Scientific/Engineering :: Image Processing
+License-File: LICENSE
+
+permutohedral_encoding extension for PyTorch

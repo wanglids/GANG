@@ -1,0 +1,10 @@
+setup.py
+Baking/__init__.py
+Baking/volumes.py
+Baking.egg-info/PKG-INFO
+Baking.egg-info/SOURCES.txt
+Baking.egg-info/dependency_links.txt
+Baking.egg-info/top_level.txt
+src/bindings.cpp
+src/irradiance_kernel.cu
+src/occlusion_kernel.cu

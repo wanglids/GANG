@@ -1,0 +1,5 @@
+# ninja log v5
+1	21870	1733227500485888999	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-3.8/src/bindings.o	48606ed4f4021e0b
+2	42065	1733227521317888124	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-3.8/src/irradiance_kernel.o	3da5cd76594d4ead
+30	22003	1733227880957873013	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-3.8/src/bindings.o	48606ed4f4021e0b
+30	41064	1733227900069872210	/a800data1/lideqi/Ours_test/Octree_Ours_1122/Baking/build/temp.linux-x86_64-3.8/src/occlusion_kernel.o	91e40fea3bea093d
