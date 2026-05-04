@@ -10,8 +10,8 @@ Deqi Li<sup>1,2</sup>, Shi-Sheng Huang<sup>1</sup>, Hongbo Fu<sup>3</sup>, Hua H
 University of Science and Technology; <sup>✉</sup>Corresponding Author.
 ***
 
-![block](assets/teaser.pdf)   
-![block](assets/pipeline.pdf)   
+![block](assets/teaser.png)   
+![block](assets/pipeline.png)   
 
 
 
